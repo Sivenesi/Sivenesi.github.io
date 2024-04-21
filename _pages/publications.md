@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
 ---
-author 1 et al 2024
+author 1 et al 2024  
 author 2 et al 2023
 
 
