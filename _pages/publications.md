@@ -14,14 +14,3 @@ Wedderburn, C. J., **Subramoney, S**., Yeung, S., Joshi, S. H., Narr, K. L., Reh
 
 Meiring, L., **Subramone**y, S., Thomas, K. G., Decety, J., & Fourie, M. M. (2014). Empathy and helping: Effects of racial group membership and cognitive load. South African Journal of Psychology, 44(4), 426-438.
 
-
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
