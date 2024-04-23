@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-My research agenda stems from two broad interests. First, I am interested in how individuals navigate social interactions with individuals who have different experiences and frameworks to them. Second, I am interested in how the early environment shapes development. 
+My research identity stems from two broad interests. First, I am interested in how individuals navigate social interactions with individuals who have different experiences and frameworks to them. Second, I am interested in how structural inequalities can manifest in development.
 
 I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the Interpesonal Development Lab. My dissertation work is on emotions and social interactions. Specifically, I am interested in how individuals help other navigate cultural differences in emotion norms (i.e., "Emotion Brokering"). 
 
