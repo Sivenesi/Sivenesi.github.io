@@ -13,7 +13,7 @@ My interests lie in the fields of Developmental and Social Psychology. I am inte
 
 I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the Interpersonal Development Lab. My dissertation work is on emotions and social interactions. Specifically, I am interested in how individuals help others navigate cultural differences in emotion norms (i.e., "Emotion Brokering"). 
 
-![UCM View](/images/UCM_View.png){: .align-center width="200px"}![UCM Fog](/images/UCM_Fog.png){: .align-center width="200px"}
+![UCM View](/images/UCM_View.png){: .align-center width="200px"} ![UCM Fog](/images/UCM_Fog.png){: .align-center width="200px"}
 
 I have a Bachelor of Social Sciences (Honors) in Psychology and a Masters in Neuropsychology from the University of Cape Town (UCT). My Masters work focused on intergroup empathic biases in emotions. Prior to starting my Ph.D, I worked as a Research Assistant in the Developmental Division at the Department of Pediatrics and Child Health, UCT. I was involved in research that examines how early risk factors (e.g., prenatal alcohol exposure) impacts early brain development. These previous experiences shaped my interests and framework as a researcher. 
 
