@@ -11,7 +11,7 @@ redirect_from:
 
 My interests lie in the fields of Developmental and Social Psychology. I am interested in how individuals navigate social interactions with individuals who have different experiences and frameworks to them. I am motivated to understand how individuals' worldview shapes their perceptions of others and social interactions. I am also interested in how historically entrenched structural factors shape child development.  
 
-![UCM Fog](/images/UCM_View.png){: .align-right width="300px"}I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the Interpersonal Development Lab. My dissertation work is on emotions and social interactions. Specifically, I am interested in how individuals help others navigate cultural differences in emotion norms (i.e., "Emotion Brokering"). 
+![UCM Fog](/images/UCM_View.png){: .align-right height="300px"}I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the Interpersonal Development Lab. My dissertation work is on emotions and social interactions. Specifically, I am interested in how individuals help others navigate cultural differences in emotion norms (i.e., "Emotion Brokering"). 
 
 
 
