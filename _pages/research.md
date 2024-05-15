@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-![Talking](/images/Talking.gif){: .align-centre width="200px"}
-
 
 My dissertation focuses on the process of helping others navigate the different emotion norms, emotion brokering. I'm specifically interested in how youth from immigrant families interpret others' emotions for their family members. For example, consider a scenario where a parent has a heated discussion with a neighbor. The child explains to the parent that the neighbor is embarrassed as they realize that they are at fault, rather than angry, as the parent assumes. 
+
+![Talking](/images/Talking.png){: .align-centre width="200px"}
 
 I am exploring a number of questions related to the topic of emotion brokering. Including: 
 
@@ -18,4 +18,4 @@ I am exploring a number of questions related to the topic of emotion brokering. 
 - **Emotion Brokering in Developmental Context** : Children's teaching of emotion norms
 - **Emotion Brokering in a Multicultural Context**: Emotion brokering experience among South African young adults
 
-My dissertation sheds light on how (a) cultural variation in emotions manifests in interactions contexts and (b) the role youth play in helping others navigate social interactions. 
+The project sheds light on how (a) cultural variation in emotions manifests in interactions contexts and (b) the role youth play in helping others navigate social interactions. 
