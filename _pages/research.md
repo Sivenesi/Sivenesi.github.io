@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-![Talking](/images/Talking.png){: .align-right width="300px"}My dissertation focuses on the process of helping others navigate the different emotion norms, emotion brokering. I'm specifically interested in how youth from immigrant families interpret others' emotions for their family members. For example, consider a scenario where a parent has a heated discussion with a neighbor. The child explains to the parent that the neighbor is embarrassed as they realize that they are at fault, rather than angry, as the parent assumes. 
+![Talking](/images/Talking.png){: .align-right width="400px"}My dissertation focuses on the process of helping others navigate the different emotion norms, emotion brokering. I'm specifically interested in how youth from immigrant families interpret others' emotions for their family members. For example, consider a scenario where a parent has a heated discussion with a neighbor. The child explains to the parent that the neighbor is embarrassed as they realize that they are at fault, rather than angry, as the parent assumes. 
 
 
 
