@@ -9,6 +9,6 @@ main:
   - title: "CV"
     url: /files/SivenesiSubramoney-cv.pdf
 
-  - title: "Talks"
-    url: /talks/   
+ #title: "Talks"
+ # url: /talks/   
     
