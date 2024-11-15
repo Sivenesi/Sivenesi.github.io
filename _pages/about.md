@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My interests lie in the fields of Developmental and Social Psychology. Broadly, I am interested in how people interact with social partners with different worldviews and emotions. I am particularly interested in how children and youth (a) navigate a multicultural world and (b) facilitating others' social interactions. In addition, I am interested in how historically entrenched structural factors inform  development. Overall, I seek to explore how individuals navigate our current multicultural, yet oftentimes socially divided world.
+My interests lie in the fields of Developmental and Social Psychology. Broadly, I am interested in how people interact with social partners with different worldviews and emotions. I am particularly interested in how children and youth (a) navigate social interactions in a multicultural world and (b) facilitate others' social interactions. In addition, I am interested in how historically entrenched structural factors inform  development.
 
-I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the [Interpersonal Development Lab](https://idlab.ucmerced.edu). My dissertation work is on emotions and social interactions. Specifically, I am interested in how individuals help others navigate cultural differences in emotion norms (i.e., ["Emotion Brokering"](https://sivenesi.github.io/research/)). 
+I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the [Interpersonal Development Lab](https://idlab.ucmerced.edu). My dissertation work is on emotions and social interactions. Specifically, I am interested in how children and young adults help others navigate cultural differences in emotion norms (i.e., ["Emotion Brokering"](https://sivenesi.github.io/research/)). 
 
 ![UCM View](/images/UCM_View.png){: .align-left width="200px"} ![UCM Fog](/images/UCM_Fog.png){: .align-center width="200px"}
 
