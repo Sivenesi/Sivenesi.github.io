@@ -1,0 +1,219 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+pdf_document:
+    latex_engine: pdflatex
+    template: /Users/sivenesisubramoney/Library/CloudStorage/OneDrive-UniversityofCaliforniaMerced/CV/svm-latex-cv.tex
+
+
+title: "CV"
+author: Sivenesi Subramoney
+
+jobtitle: "Ph.D Candidate Developmental Psychology"
+address: "University of California, Merced, 5200 Lake Road, Merced, CA 95343, USA"
+fontawesome: yes
+email: ssubramoney@ucmerced.edu
+#github: sivenesi.github.io  
+
+orcid: no
+# twitter: stevenvmiller
+osf: no
+phone: no
+web: no
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: "Emotion and Social Relations, Socioemotional Development, Development Under Adversity"
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*University of California, Merced, USA* \hfill 2019 - Present\
+Ph.D. in Psychological Sciences, Developmental Psychology\
+*With Certificate in Quantitative Methods*   
+Dissertation Committee: Eric Walle (chair), Alexandra Main, Rose Scott, Dalia Magaña
+
+
+*University of Cape Town, South Africa* \hfill 2016\
+M.A. in Neuropsychology (with distinction)\
+Advisors: Kevin Thomas and Melike Fourie (co-advisor)
+
+*University of Cape Town, South Africa*\hfill 2012\
+B. Soc Sci Honors in Psychology (First class pass)\
+Advisors: Kevin Thomas and Melike Fourie (co-advisor)
+
+*University of Cape Town, South Africa*\hfill 2011\
+B. Soc Sci in Psychology and isiXhosa (with distinction in isiXhosa and degree with distinction)
+
+# PUBLICATIONS
+
+**Subramoney, S.**, Walle, E.A., Main, A., & Magaña, D.(2024). Navigating intercultural misunderstandings: An examination of emotion brokering. *Cultural Diversity and Ethnic Minority Psychology*.
+
+Wedderburn, C. J., Yeung, S., **Subramoney, S.**, Fouche, J.-P., Joshi, S. H., Narr, K. L., Rehman, A. M., Roos, A., Gibb, D. M., Zar, H. J., Stein, D. J., & Donald, K. A. (2024). Association of in utero HIV exposure with child brain structure and language development: A South African birth cohort study. *BMC Medicine*, 22(1), 129. 
+
+Donald, K. A., Hendrikse, C. J., Roos, A., Wedderburn, C. J., **Subramoney, S.**, Ringshaw, J. E., Bradford, L., Hoffman, N., Burd, T., Narr, K. L., Woods, R. P., Zar, H. J., Joshi, S. H., & Stein, D. J. (2024). Prenatal alcohol exposure and white matter microstructural changes across the first 6–7 years of life: A longitudinal diffusion tensor imaging study of a South African birth cohort. *NeuroImage: Clinical*, 41, 103572. 
+
+Wedderburn, C. J., Ringshaw, J. E., Donald, K. A., Joshi, S. H., **Subramoney, S.**, Fouche, J.-P., Stadler, J. A. M., Barnett, W., Rehman, A. M., Hoffman, N., Roos, A., Narr, K. L., Zar, H. J., & Stein, D. J. (2022). Association of maternal and child anemia with brain Structure in early life in South Africa. *JAMA Network Open*, 5(12), e2244772. 
+
+Pellowski, J. A., Wedderburn, C. J., Groenewold, N. A., Roos, A., **Subramoney, S.**, Hoffman, N., Fouche, J.-P., Joshi, S. H., Woods, R. P., Narr, K. L., Zar, H. J., Donald, K. A., & Stein, D. J. (2023). Maternal perinatal depression and child brain structure at 2-3 years in a South African birth cohort study. *Translational Psychiatry*, 13(1), 96.
+
+**Subramoney, S**, Joshi, S. H, Wedderburn, C.J., Lee, D., Roos, A., Woods, R.P., Zar, H.J., Narr, K.L., Stein, D.J., Donald, K.A. (2022) The impact of Prenatal alcohol exposure (PAE) on gray matter volume and cortical surface area of 2-3 year old children in a South African birth cohort. *Alcoholism: Clinical and Experimental Research*, 46(7), 1233-1247.
+
+Roos, A., Wedderburn, C. J., Fouche, J.-P., **Subramoney, S.**, Joshi, S. H., Woods, R. P., Zar, H. J., Narr, K. L., Stein, D. J., & Donald, K. A. (2021). Central white matter integrity alterations in 2-3-year-old children following prenatal alcohol exposure. *Drug and Alcohol Dependence*, 225, 108826. 
+
+Wedderburn, C. J., **Subramoney, S.**, Yeung, S., Joshi, S. H., Narr, K. L., Rehman, A. M., Roos, A., Ipser, J., Robertson, F. C., Groenewold, N. A., Gibb, D. M., Zar, H. J., Stein, D. J., & Donald, K. A. (2020). Neuroimaging young children and associations with neurocognitive development in a South African birth cohort study. *NeuroImage*, 219, 116846. 
+
+**Subramoney, S.**, Eastman, E., Adnams, C., Stein, D. J., & Donald, K. A. (2018). The early developmental outcomes of prenatal alcohol exposure: A review. *Frontiers in neurology*, 9, 1108. 
+
+Meiring, L., **Subramoney, S.**, Thomas, K. G., Decety, J., & Fourie, M. M. (2014). Empathy and helping: Effects of racial group membership and cognitive load. *South African Journal of Psychology*, 44(4), 426-438.
+
+# MANUSCRIPTS UNDER REVIEW/REVISION & IN PREPARATION
+
+**Subramoney, S**, Walle, E.A., Main, A., & Magaña, D. (under review). Emotion brokering in Latinxs: Associations with depressive symptoms and acculturative Stress.
+
+**Subramoney, S**., Walle, E.A., Main, A., & Magaña, D. (invited revision). Cultural brokering in immigrant youth. 
+
+**Subramoney, S**., Walle, E. A., & Camras, L. A. (under review). Emotional development in different cultural contexts. In M. Yik (Ed.), Handbook of Emotion and Culture. Oxford University Press.
+
+Walle, E. A., **Subramoney, S**., Ganesh Kumar, M., & Özden, Z.B. (under review). Emotional signals. In S. P. Johnson (Ed.), Handbook of Perceptual Development. Oxford University Press.
+
+# RESEARCH IN PROGRESS
+
+**Subramoney, S.**, & Walle, E.A., (in progress). Children’s understanding and teaching of novel emotion norms.
+
+**Subramoney, S.**, & Walle, E.A., (in progress). Emotion brokering among South African young adults.
+
+# PRESENTATIONS
+
+## Chaired Conference Symposia
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2023, July). Emotion Brokering: Helping others navigate intercultural emotion-based misunderstandings. International Association for Cross-Cultural Psychology. Limerick, Ireland.
+
+## Conference Talks
+
+**Subramoney, S.** & Walle, E.A. (2024, July). The relationship between bicultural identity and the emotion brokering experience among U.S. Latinxs. Paper presented at the International Congress for the International Association for Cross-Cultural Psychology, Bali, Indonesia.
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2024, May). Emotion brokering: Helping others navigate intercultural emotion-based misunderstandings. Bay Area Developmental Symposium, Palo Alto, USA.
+
+**Subramoney, S.**, +Cardoza Cortez, M.A., & Walle, E.A. (2024, April). The effects of emotion brokering frequency and gender on maternal relationship quality. Talk presented at the National Conference on Undergraduate Research, Long Beach, USA.
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2023, July). Emotion Brokering: Helping others navigate intercultural emotion-based misunderstandings. International Association for Cross-Cultural Psychology. Limerick, Ireland.
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2023, June). Emotion Brokering and mental health: The role of family support values. Paper presented at the Broader Bay Area Affective Science Society Meeting, Davis, USA. 
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2022, July). The effects of emotion brokering on mental health: It depends on how you feel about it. Paper presented at the International Society for Research on Emotion Development Preconference, Los Angeles, USA.
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2022, July). Emotion brokering in U.S. Latinxs: Associations with mental health and stress. Paper presented at the International Congress of Cross-Cultural Psychology, Virtual.
+
+**Subramoney, S.**, & Walle, E. A. (2021, April). The effects of gender and heritage cultural identity on emotion brokering outcomes. Paper presented at the Society for Affective Science Meeting, Virtual.
+
+## Conference Posters
++Undergraduate author
+
+**Subramoney, S.**, +Cardoza Cortez, M.A., & Walle, E.A. (2024, July). The effects of emotion brokering frequency and gender on maternal relationship quality. Poster presented at the International Society for Research on Emotion, Belfast, Northern Ireland.
+
+**Subramoney, S.** & Walle, E.A. (2024, June). The relationship between bicultural identity and the emotion brokering experience among U.S. Latinxs. Poster presented at the Broader Bay Area Affective Science Society Meeting, Berkeley, USA.
+
+**Subramoney, S.**, Ozden,Z.B., Ocampo, D., Lopez, L.D., & Walle, E. A., Main, A., & Magaña, D. (2023, April). Extrinsic emotion regulation in infancy and early childhood. Poster presented at the Society for Affective Science, Long Beach, USA.
+
+Özden, Z.B.,  Ocampo, D.B., **Subramoney, S.**,Lopez, L.D., & Walle E.A. (2023, March). Extrinsic emotion regulation in infancy and early childhood. Poster presented at Society for Research on Child Development, Salt Lake City, USA.
+
+Subramoney, S., Walle, E. A., Main, A., & Magaña, D. (2022, July). The effects of emotion brokering on mental health: It depends on how you feel about it. Poster presented at the International Society for Research on Emotion, Los Angeles, USA. 
+
+**Subramoney, S.**, Walle, E. A., Main, A., & Magaña, D. (2022, February). The effects of emotion brokering on mental health: It depends on how you feel about it. Poster presented at the Society for Personality and Social Psychology Conference and virtual Emotion Pre-Conference, San Francisco, USA.
+
+**Subramoney, S.**, & Walle, E. A. (2021, February). Emotion brokering: Navigating cross-cultural differences in emotion norms. Poster presented at the Society for Personality and Social Psychology Emotion Pre- Conference, Virtual. [Best Poster Award Winner]
+
+**Subramoney, S.**, Wedderburn, C. J., Roos, A., Ipser, J. C., Zar, H. J., Woods, R. P., Stein, D.J., Narr, K.L., Joshi, S & Donald, K. A. (2020, June). Altered subcortical grey matter volume in 2-3 Year Old children with prenatal alcohol exposure in a South-African birth cohort. Research for Society on Alcoholism. [Meeting Cancelled] 
+
+Wedderburn, C. J., Yeung, S., **Subramoney, S.**, Fouche, J.P., Joshi, S.H., Narr, K.L., Rehman, A.M., Roos, A., Gibb, G.M., Zar, H.J., Stein, D.J., Donald, K.A (2020, July). Mapping cortical structure and neurocognitive development of HIV-exposed uninfected children in South Africa: Neuroimaging outcomes from a South African birth cohort. International AIDS Conference, virtual.
+
+# TEACHING EXPERIENCE
+
+## Guest Lectures
+Neurodevelopmental Disorders, Psychopathology, *UC, Merced*\hfill April 2024  
+Childhood Sexual Development, Human Sexuality, *UC, Merced*\hfill March 2023
+
+## Teaching Assistantship
+### University of California, Merced
+Social Cognition with *Jason Emory* \hfill Fall 2024  
+Psychopathology with *Robert Yancey*\hfill Spring 2024  
+Analysis of Psychological Data with *Ana Simeos*\hfill Fall 2023  
+Human Sexuality with *Ross Avilla*\hfill Spring 2023  
+Research Methods with *Jason Emory*\hfill Fall 2022  
+Culture/Racial/Ethnic Diversity with *Daniel Mello*\hfill Spring 2022  
+Analysis of Psychological Data with *Ren Lui*\hfill Fall 2021  
+Developmental Psychology with *Jason Isbell*\hfill Spring 2021  
+Clinical Neuropsychology with *Alexander Khislavsky*\hfill Fall 2020  
+Abnormal Child Psychology with *Paul Carroll*\hfill Spring 2020  
+Stereotype and Prejudice with *Paul Carroll*\hfill Fall 2019  
+
+### University of Cape Town
+Tutor for Research Methodology (I and II) and Statistics\hfill 2013-2017  
+Convenor: *Muya Koloko*
+
+# PREVIOUS RESEARCH EXPERIENCE
+
+*Pediatrics and Child Health, University of Cape Town*\hfill 2017-2019  
+Senior Research Assistant (Full time)  
+Management of data acquisition on a longitudinal birth cohort study, the Drakenstein Child Health Study (PI Kirsty Donald)  
+Conducted neuroimaging (structural and functional) with 2-3 and 6 year old children  
+Worked with children and mothers living in the Drakenstein region of the Western Cape, South Africa   
+
+*Greater Cape Town Area*\hfill 2016-2018  
+Training Facilitator of the Early Learning Outcomes Measure    
+I trained early childhood development practitioners (e.g., preschool teachers) to administer a brief assessment on children for a validation study (Conducted two week-long training sessions). I also conducted assessments with English speaking 50-59 month old children in the greater Cape Town area (January 2016).  
+
+*Department of Human Biology, University of Cape Town*\hfill 2013-2017  
+Child Development Research Laboratory   
+Assisting in data collection (administering anthropometry, event-related potential, and behavioral assessments) with 6-month and 12-month-old infants for a project investigating the effects of prenatal alcohol exposure on infant development.
+
+*Departments of Neurology and Psychiatry at Groote Schuur Hospital*\hfill 2015    
+*Red Cross War Memorial Children’s Hospital*   
+Neuropsychology Intern   
+Conducted adult and paediatric neuropsychological assessments with individuals with a range of conditions including neurological (e.g., strokes, traumatic brain injury), developmental (e.g. HIV exposure), and psychiatric disorders.
+
+# FUNDING, HONORS, AND AWARDS
+
+## University of California, Merced
+Distinguished Graduate Speaker in Psychological Sciences \hfill 2024  
+Outstanding Graduate Student in Developmental Psychology \hfill 2023- 2024  
+Graduate Student Travel Grant: USD 350 \hfill 2023   
+Psychological Sciences Graduate Student Research Award: USD 4,150 \hfill 2020- 2023  
+Oppenheimer Memorial Trust (OMT) Award for Graduate Study, USD 9300/year \hfill 2020 - 2023   
+
+## University of Cape Town, South Africa  
+National Research Foundation Innovation Masters Scholarship, ZAR 70 000/year \hfill 2013 - 2015  	
+National Research Foundation Freestanding Scholarship, ZAR 20 000 \hfill  2012     
+Humanities Faculty Scholarship, ZAR 20 000/year \hfill  2010- 2011	  
+Class medal- achieved first position in class (Xhosa Communications) \hfill  2010  
+Deans Merit List \hfill  2009- 2011
+
+# MEDIA COVERAGE
+
+Research on emotion brokering featured on [ABC 30 Action News](https://abc30.com/post/uc-merced-research-project-exploring-impact-children-translating/14915877/) \hfill June 2024  
+Article on emotion brokering featured on [UC Merced news](https://news.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families)
+ \hfill April 2024 
+
+# MEMBERSHIPS AND AFFILIATIONS
+
+International Society for Research on Emotion, student member\hfill 2022- Present    
+International Congress for Research on Cross-Cultural Psychology, student member\hfill 2022- Present  
+Society for Affective Science, student member\hfill 2021- Present  
+South African Neuropsychology Association\hfill 2018- 2019  
+American Psychological Association (APA), International Affiliate\hfill 2017-2019  
+Golden Key International Honors Society\hfill 2010- Present  
+
+# COURSES AND CERTIFICATES
+
+Principles of Pedagogy, UC Merced \hfill 2023  
+Preparing to Teach in the Online Environment, UC Merced \hfill 2020  
+Introduction to STATA (run by Datafirst), Cape Town, South Africa\hfill 2019  
+Good Clinical Practice Certificate\hfill 2017  
+Accredited Early Learning Outcomes Measure Assessor\hfill 2016   
