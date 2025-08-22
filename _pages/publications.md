@@ -9,7 +9,7 @@ Representative publications
 
 # PUBLISHED/IN PRESS
 
-**Subramoney, S**, Walle, E.A., Main, A., & Magaña, D. (In press). Emotion brokering in Latinxs: Associations with depressive symptoms and acculturative stress. *Emotion*.
+**Subramoney, S**, Walle, E.A., Main, A., & Magaña, D. (2025). Emotion brokering in Latinxs: Associations with depressive symptoms and acculturative stress. *Emotion*.
 
 **Subramoney, S**., Walle, E.A., Main, A., & Magaña, D. (2025). Cultural brokering in immigrant youth. *Child Development Perspectives*. 
 
