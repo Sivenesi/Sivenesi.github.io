@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My interests lie in the fields of Developmental and Social Psychology. Broadly, I am interested in how people interact with social partners with different worldviews and emotions. I am particularly interested in how children and youth (a) navigate complex social interactions and (b) facilitate others' social interactions. In addition, I am interested in how historically entrenched structural factors inform  development. Overall, I seek to understand socioemotional development in our multicultural, yet oftentimes socially divided world.
+My interests lie in the fields of Developmental and Social Psychology with focus on social and emotional development in contexts of diversity and social inequality. I am particularly interested in (1) the processes by which youth navigate complex social interactions, and (2) the impact of navigating these social dynamics on youth well-being and adjustment. Overall, I seek to understand socioemotional development in our multicultural, yet oftentimes socially divided world. 
 
-I am currently a Ph.D Candidate in Developmental Psychology at the University of California, Merced. I am a member of the [Interpersonal Development Lab](https://idlab.ucmerced.edu). My dissertation work is on emotions and social interactions. Specifically, I am interested in how children and young adults help others navigate cultural differences in emotion norms (i.e., ["Emotion Brokering"](https://sivenesi.github.io/research/)). 
+I joined Virginia Commonwealth University as a postdoctoral fellow in Fall 2025. I completed my Ph.D in Developmental Psychology at the University of California, Merced in May 2025, where I was a member of the [Interpersonal Development Lab](https://idlab.ucmerced.edu).
 
 ![UCM View](/images/UCM_View.png){: .align-left width="200px"} ![UCM Fog](/images/UCM_Fog.png){: .align-center width="200px"}
 
