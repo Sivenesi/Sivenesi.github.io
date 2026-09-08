@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Talks and Public Engagement"
+permalink: /Talks/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
