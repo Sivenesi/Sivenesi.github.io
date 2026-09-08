@@ -5,7 +5,10 @@ main:
     
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Talks and Public Engagement"
+    url: /talks/   
+    
   - title: "CV"
     url: /files/SivenesiSubramoney-cv_20260803.pdf
 
