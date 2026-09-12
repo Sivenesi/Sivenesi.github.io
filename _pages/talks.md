@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-# SELECTED CONFERENCE TALKS
-
 ## Chaired Conference Symposia
 
 **Subramoney, S**., (2026, March). Emotion expressions and the norms that govern them. Society for Affective Science 2026 Annual Conference. Pittsburgh, USA.
@@ -22,14 +20,12 @@ author_profile: true
 **Subramoney, S**., & Walle, E. A. (2021, April). The effects of gender and heritage cultural identity on emotion brokering outcomes. Paper presented at the Society for Affective Science Meeting, Virtual.
 
 
-# MEDIA COVERAGE 
+## Media Coverage
 
-Cultural brokering research featured on [UC Merced News](https://news.ucmerced.edu/news/2025/novel-research-reveals-costs-rewards-youth-who-serve-emotion-interpreters) \hfill Jan, 2025\
-Research on emotion brokering featured on [ABC 30 Action News](https://abc30.com/post/uc-merced-research-project-exploring-impact-children-translating/14915877/) \hfill June, 2024\
-Article on emotion brokering featured on [UC Merced News](https://news.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families) \hfill April, 2024\
+2025, Cultural brokering research featured on [UC Merced News](https://news.ucmerced.edu/news/2025/novel-research-reveals-costs-rewards-youth-who-serve-emotion-interpreters) 
+2024, Research on emotion brokering featured on [ABC 30 Action News](https://abc30.com/post/uc-merced-research-project-exploring-impact-children-translating/14915877/) 
+2024, Article on emotion brokering featured on [UC Merced News](https://news.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families) 
 
 # OTHER ARTICLES
-Opinion Article in [The Student Notebook](https://www.psychologicalscience.org/observer/student-notebook-diverse-scholars), \hfill 2023\     
-Association for Psychological Science (APS)  
-Co-authored with Enzo Cáceres Quezada (University of Amsterdam)\    
-and Kunalan Manokara (Duke University)   
+Opinion Article in [The Student Notebook](https://www.psychologicalscience.org/observer/student-notebook-diverse-scholars), 
+Association for Psychological Science (APS) Co-authored with Enzo Cáceres Quezada (University of Amsterdam) and Kunalan Manokara (Duke University)   
