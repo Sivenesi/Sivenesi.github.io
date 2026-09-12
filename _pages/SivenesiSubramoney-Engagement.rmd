@@ -1,0 +1,62 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+pdf_document:
+    latex_engine: pdflatex
+    template: /Users/sivenesisubramoney/Library/CloudStorage/OneDrive-UniversityofCaliforniaMerced/CV/svm-latex-cv.tex
+
+#title: "CV"
+#author: Sivenesi Subramoney
+
+#jobtitle: "Postdoctoral Fellow in Psychology"
+#address: "Virginia Commonwealth University, Richmond, VA 23284, USA"
+#fontawesome: yes
+#email: subramoneys@vcu.edu
+#github: sivenesi.github.io  
+
+#orcid: no
+# twitter: stevenvmiller
+#osf: no
+#phone: no
+#web: no
+#updated: TRUE
+#rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+#keywords: "Emotion and Social Relations, Socioemotional Development, Development Under Adversity"
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# SELECTED CONFERENCE TALKS
+
+## Chaired Conference Symposia
+
+**Subramoney, S**., (2026, March). Emotion expressions and the norms that govern them. Society for Affective Science 2026 Annual Conference. Pittsburgh, USA.
+
+**Subramoney, S**., Walle, E. A., Main, A., & Magaña, D. (2023, July). Understanding and navigating cultural differences in emotional communication International Association for Cross-Cultural Psychology. Limerick, Ireland.
+
+## Conference Talks
+
+**Subramoney, S**., Walle, E. A., Main, A., & Magaña, D. (2023, June). Emotion Brokering and mental health: The role of family support values. Paper presented at the Broader Bay Area Affective Science Society Meeting, Davis, USA.
+
+**Subramoney, S**., Walle, E. A., Main, A., & Magaña, D. (2022, July). Emotion brokering in U.S. Latinxs: Associations with mental health and stress. Paper presented at the International Congress of Cross-Cultural Psychology, Virtual.
+
+**Subramoney, S**., & Walle, E. A. (2021, April). The effects of gender and heritage cultural identity on emotion brokering outcomes. Paper presented at the Society for Affective Science Meeting, Virtual.
+
+
+# MEDIA COVERAGE 
+
+Cultural brokering research featured on [UC Merced News](https://news.ucmerced.edu/news/2025/novel-research-reveals-costs-rewards-youth-who-serve-emotion-interpreters) \hfill Jan, 2025\
+Research on emotion brokering featured on [ABC 30 Action News](https://abc30.com/post/uc-merced-research-project-exploring-impact-children-translating/14915877/) \hfill June, 2024\
+Article on emotion brokering featured on [UC Merced News](https://news.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families) \hfill April, 2024\
+
+# OTHER ARTICLES
+Opinion Article in [The Student Notebook](https://www.psychologicalscience.org/observer/student-notebook-diverse-scholars), \hfill 2023\     
+Association for Psychological Science (APS)  
+Co-authored with Enzo Cáceres Quezada (University of Amsterdam)\    
+and Kunalan Manokara (Duke University)   
+
