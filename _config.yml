@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Sivenesi Subramoney"
   pronouns         : "she/her/hers"  
-  bio              :"Postdoctoral Fellow in Psychology"
-  location         :"Richmond, USA"
-  employer         :"Virginia Commonwealth University"
+  bio              : "Postdoctoral Fellow in Psychology"
+  location         : "Richmond, USA"
+  employer         : "Virginia Commonwealth University"
   uri              : # URL
   email            : "subramoneys@vcu.edu" 
 
