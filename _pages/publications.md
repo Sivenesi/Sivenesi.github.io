@@ -24,7 +24,7 @@ families. Child Development Perspectives, 19(3), 165- 171. [doi.org/10.1111/cdep
 
 **Subramoney, S**., Walle, E.A., Main, A., & Magaña, D.(2025). Navigating intercultural misunderstandings:
 An examination of emotion brokering. Cultural Diversity and Ethnic Minority Psychology,
-31(3), 429–441. [doi.org/10.1037/cdp0000652](https://doi.org/10.1037/cdp0000652)
+31(3), 429–441. [doi.org/10.1037/cdp0000652](https://doi.org/10.1037/cdp0000652) 
 
 # MANUSCRIPTS UNDER REVIEW/REVISION
 
