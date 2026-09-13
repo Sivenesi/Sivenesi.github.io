@@ -24,7 +24,7 @@ Building on this work, I have examined the following question related to the emo
 
 **(2) Development of Social and Cultural Navigation**
 ![Puppets](/images/Picture2.png){: .align-right width="300px"}
-My second line of research investigates the developmental processes underlying how individuals learn to navigate social and cultural differences in emotion communication. 
+My second line of research investigates the developmental processes underlying social and emotional navigation. 
 I have examined the following questions:
 - Do 5-7-year-old and 8-10-year-old child teach novel emotions to others? (Subramoney & Walle, under review).
 
