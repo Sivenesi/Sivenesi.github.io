@@ -10,7 +10,7 @@ author_profile: true
 2024, Research on emotion brokering featured on [ABC 30 Action News](https://abc30.com/post/uc-merced-research-project-exploring-impact-children-translating/14915877/)    
 2024, Article on emotion brokering featured on [UC Merced News](https://news.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families)    
 
-## Other articles
+## Other Articles
 
 Opinion Article in [The Student Notebook](https://www.psychologicalscience.org/observer/student-notebook-diverse-scholars), 
 Association for Psychological Science (APS) Co-authored with Enzo Cáceres Quezada (University of Amsterdam) and Kunalan Manokara (Duke University)  
