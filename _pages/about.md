@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My interests lie in the fields of Developmental and Social Psychology with focus on social and emotional development in contexts of diversity and social inequality. I am particularly interested in (1) the processes by which youth navigate complex social interactions, and (2) the developmental processes underlying social and emotional navigation. Overall, I seek to understand socioemotional development in our multicultural, yet oftentimes socially divided world. 
+My research examines emotions and social processes. My work is guided by a functionalist theoretical framework that characterizes emotions as communicative signals that are embedded in relational contexts. Using qualitative, quantitative, and experimental methods, I investigate two complementary areas: (1) how individuals navigate complex social and emotional interactions, and (2) the developmental processes that underlie flexible social navigation.  Together, I seek to advance understanding of socioemotional processes and their development in diverse contexts. 
 
 I joined Virginia Commonwealth University as a postdoctoral fellow in Fall 2025. I completed my Ph.D in Developmental Psychology at the University of California, Merced in May 2025, where I was a member of the [Interpersonal Development Lab](https://idlab.ucmerced.edu).
 
