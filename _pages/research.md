@@ -11,23 +11,8 @@ I am actively involved in two lines of inquiry.
 
 **(1) Multicultural Social and Emotion Navigation**
 ![Talking](/images/Talking.png){: .align-right width="300px"} 
-My first line of research examines how individuals navigate emotions and social relationships across cultural contexts. 
-
-I investigated evidence for a novel form of cultural brokering in which individuals interpret emotions and emotion-related norms for others (i.e.,**emotion brokering**). Exploratory, qualitative research established emotion brokering as a distinct form of cultural brokering and demonstrated its relevance to intercultural emotion communication (Subramoney et al., 2025a).
-
-Building on this work, I have examined the following question related to the emotion brokering experience:
-- What are the associations between emotion brokering and psychological adjustment?
-    - What are the roles of emotions when emotion brokering and cultural values in the associations between emotion brokering and psychological adjustment? (Subramoney et al., 2025b)
-- Is emotion brokering associated with familial relationship quality? (Subramoney et al., under review)
-- Does the emotion brokering experience only resonate with those from immigrant families, or rather is it also evident in other multicultural contexts? (Subramoney & Walle, in prep)
-- Do people with more intercultural contact engage in more frequent emotion brokering? 
+My first line of research concerns the role individuals play in others’ emotion communication. Whereas it is known that individuals help others overcome communication gaps by interpreting language and cultural norms for others (i.e., cultural brokering), less is known about the process by which individuals interpret emotions for others (i.e., emotion brokering). I conducted research to (a) document the experience of emotion brokering and (b) investigate the associations between emotion brokering and psychological well-being among Latinx emerging adults predominantly from immigrant families (Subramoney et al., 2025a; Subramoney et al., 2025b). Findings advance knowledge on cultural brokering (Subramoney et al., 2025c) by establishing emotion brokering as a distinct form of cultural brokering and highlight the importance of considering heterogeneity in individuals' emotions and cultural values when understanding cultural brokers' experiences. Building on this earlier work, I have explored the role of the sociocultural context in the emotion brokering process. For instance, findings demonstrate gender differences in the associations between emotion brokering and relationship quality (Subramoney, Walle, Main, & Magaña, under review) and indicate that the associations between emotion brokering and psychological well-being are also evident in other cultural settings (i.e., South Africa, Subramoney & Walle, in prep). 
 
 **(2) Development of Social and Cultural Navigation**
 ![Puppets](/images/Picture2.png){: .align-right width="300px"}
-My second line of research investigates the developmental processes underlying social and emotional navigation. 
-I have examined the following questions:
-- Do 5-7-year-old and 8-10-year-old child teach novel emotions to others? (Subramoney & Walle, under review).
-
-  I also investigate how sociocultural contexts shape socioemotional development across diverse populations. Using large, ethnically diverse samples I have examined the following questions:
--  Does ethnic-racial identity predict emotion functioning among emerging adults? (Subramoney et al., under review)
--  What are the associations between parental emotion socialization, emotion regulation, and mental health among emerging adults from diverse ethnic-racial backgrounds? (Subramoney et al., in prep)
+My second line of research seeks to investigate the developmental processes that underlie flexible social navigation (Walle, Özden, Subramoney, & Ganesh Kumar, in press). For instance, with funding from the Oppenheimer Memorial Trust, I examined 5- to 10-year-old children's ability to learn novel emotion expression norms and teach those emotion norms to a social partner (Subramoney & Walle, under review). Furthermore, I have been investigating the role of sociocultural processes (e.g., socialization) in the development of flexible social navigation (Subramoney et al., under review; Subramoney, Williams, Lozada et al., in prep). This research advances developmental science and informs understanding of development in diverse and multicultural contexts (Subramoney, Walle, & Camras, in press).
