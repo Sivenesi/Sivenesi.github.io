@@ -1,7 +1,10 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/    
+    url: /research/ 
+    
+  - title: "Teaching"
+    url: /Teaching/
     
   - title: "Publications"
     url: /publications/
@@ -10,7 +13,7 @@ main:
     url: /talks/
     
   - title: "CV"
-    url: /files/SivenesiSubramoney-cv_20260913.pdf
+    url: /files/SivenesiSubramoney-cv_20261101.pdf
 
  #title: "Talks"
  # url: /talks/   
