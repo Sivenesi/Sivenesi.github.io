@@ -13,17 +13,17 @@ Social Psychology of Emotions \hfill Spring 2026
 
 ##  University of California, Merced (Teaching Assistant)
 
-### Guest Lectures (60-80 student classes)
+### Guest Lectures
 
 Neurodevelopmental Disorders, Psychopathology \hfill April 2024\
 Childhood Sexual Development, Human Sexuality \hfill March 2023\  
 
-### Teaching Assistantship Discussion/Seminar Leader (30 student classes)
+### Teaching Assistantship Discussion/Seminar Leader
 
 Analysis of Psychological Data  \hfill Fall 2023\
 Analysis of Psychological Data  \hfill Fall 2021\   
 
-### Teaching Assistantships (60-80 student classes)
+### Teaching Assistantships
 
 Social Cognition \hfill Fall 2024\
 Psychopathology \hfill Spring 2024\
